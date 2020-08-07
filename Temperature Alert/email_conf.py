@@ -1,0 +1,6 @@
+MAILGUN_API_KEY = '7d7bff670b16b5ea0f0fe9ddbe31ae12-f7d0b107-1a40c41a' 
+SANDBOX_URL= 'sandbox355379b103c04330bf6e4b6d0427b332.mailgun.org' 
+SENDER_EMAIL = 'test@sandbox355379b103c04330bf6e4b6d0427b332.mailgun.org'
+RECIPIENT_EMAIL = 'techiesms@gmail.com'
+API_KEY = 'c292b37b-92e7-4a6d-885b-c7e150b0247c'
+DEVICE_ID = 'BOLT13169466' 
